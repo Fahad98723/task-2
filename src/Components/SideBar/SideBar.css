@@ -1,8 +1,13 @@
-.menu-item{
-    margin: 10px 0px;
-    text-align: center;
-    padding: 10px;
+.menu-item {
+  margin: 10px 0px;
+  font-size: 16px;
+  padding: 10px;
+  padding-left: 20px;
+  color: #7e7e7e;
+  cursor: pointer;
 }
-.menu-item:hover{
-    background-color: red;
+.menu-item:hover {
+  background-image: linear-gradient(to right, #9b4df473, #ffffffb5);
+  color: #7d23e0;
+  font-weight: 700;
 }
